@@ -15,3 +15,7 @@ publicディレクトリがDocumentRootになります。
 ### ログ
 
 dokcer/sync/log 以下に出力されます。
+
+### ポートの変更
+
+env.sampleを.envにコピーし、WEB_PORTを変更します。
